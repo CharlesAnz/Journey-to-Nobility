@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b85265d2f77e1b54eb1764b245597de7, type: 3}
+  m_Name: Tutorial 02_02
+  m_EditorClassIdentifier: 
+  name: Tutorial 02_02
+  description: Invest in a cure
+  outcome: The research succeeds, and you cure the patient
+  outcome2: The research fails, the patient dies.
+  wealth: -3
+  honor: 0
+  favor: 10
+  resources: -5
+  might: 0
+  wealth2: -5
+  honor2: 0
+  favor2: 0
+  resources2: -7
+  might2: 0
+  testStat: 1
+  wealthcheck: 55
+  honorcheck: 0
+  favorcheck: 0
+  resourcescheck: 50
+  mightcheck: 0

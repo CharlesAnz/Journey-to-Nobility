@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b85265d2f77e1b54eb1764b245597de7, type: 3}
+  m_Name: Tutorial 02_01
+  m_EditorClassIdentifier: 
+  name: Tutorial 02_01
+  description: Kill them
+  outcome: You kill them and their family is upset.
+  outcome2: You kill them, but the sicknesss still spreads
+  wealth: 0
+  honor: 0
+  favor: -4
+  resources: 0
+  might: 0
+  wealth2: -5
+  honor2: -5
+  favor2: -5
+  resources2: -5
+  might2: -5
+  testStat: 1
+  wealthcheck: 0
+  honorcheck: 0
+  favorcheck: 0
+  resourcescheck: 0
+  mightcheck: 50

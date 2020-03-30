@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b85265d2f77e1b54eb1764b245597de7, type: 3}
+  m_Name: Tutorial 05_01
+  m_EditorClassIdentifier: 
+  name: Tutorial 05_01
+  description: You invest in an army.
+  outcome: You invested in an army.
+  outcome2: You fail to invest in an army
+  wealth: 0
+  honor: 0
+  favor: 0
+  resources: 0
+  might: 20
+  wealth2: -5
+  honor2: -5
+  favor2: -5
+  resources2: -5
+  might2: -5
+  testStat: 0
+  wealthcheck: 0
+  honorcheck: 0
+  favorcheck: 0
+  resourcescheck: 0
+  mightcheck: 0
